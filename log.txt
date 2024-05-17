@@ -1,0 +1,17 @@
+Placed 1 at (2, 0)
+Placed 2 at (1, 0)
+Placed 3 at (0, 0)
+Placed 4 at (2, 1)
+Placed 5 at (1, 1)
+Placed 6 at (0, 1)
+Placed 7 at (2, 2)
+Placed 8 at (1, 2)
+Grasped 1 from (2, 0)
+Target position at (2, 2) is occupied.
+Failed to put 1 on (2, 2)
+Grasped 0 from (0, 2)
+Target position at (2, 0) is occupied.
+Failed to put 0 on (2, 0)
+Grasped 1 from (2, 0)
+Moved 1 to (0, 2)
+Successfully put 1 on (0, 2)
